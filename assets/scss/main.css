@@ -93,12 +93,10 @@
   width: 100%;
 }
 .accordion__content .profissional__images {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: repeat(2, auto);
-  gap: 20px;
-  max-width: 400px;
-  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 24px;
 }
 .accordion__content .profissional__images picture {
   display: flex;
