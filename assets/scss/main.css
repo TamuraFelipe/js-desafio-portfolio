@@ -171,13 +171,12 @@
 .accordion__content .portfolio h3 {
   display: flex;
   align-items: center;
-  justify-content: center;
   gap: 8px;
 }
 .accordion__content .portfolio h3.github::before {
   content: "";
-  width: 35px;
-  height: 35px;
+  width: 28px;
+  height: 16px;
   background-image: url("../img/icon-github.svg");
   background-repeat: no-repeat;
 }

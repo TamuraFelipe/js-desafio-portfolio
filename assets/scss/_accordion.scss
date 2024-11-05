@@ -123,13 +123,12 @@
             h3 {
                 display: flex;
                 align-items: center;
-                justify-content: center;
                 gap: 8px;
                 &.github {
                     &::before {
                         content: "";
-                        width: 35px;
-                        height: 35px;
+                        width: 28px;
+                        height: 16px;
                         background-image: url("../img/icon-github.svg");
                         background-repeat: no-repeat;
                     }
