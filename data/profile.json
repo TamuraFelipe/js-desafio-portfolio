@@ -1,0 +1,119 @@
+{
+    "name": "Felipe D Tamura",
+    "photo": "https://avatars.githubusercontent.com/u/54502911?v=4",
+    "job": "Front-end - VM2",
+    "location": "Sorocaba - SP",
+    "phone": "(15) 9-9178-4214",
+    "email": "tamurafelipe@gmail.com",
+    "skills": {
+      "hardSkills": [
+        {
+          "name": "Nodejs",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        },
+        {
+          "name": "React",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        },
+        {
+          "name": "HTML",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        },
+        {
+          "name": "CSS",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        },
+        {
+          "name": ".Net",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        }
+      ],
+      "softSkills": [
+        "Facilidade com tarefas práticas",
+        "Trabalho em Equipe",
+        "Comprometimento com resultados",
+        "Comunicação",
+        "Organização"
+      ]
+    },
+    "languages": [
+      "Português BR",
+      "Inglês (intermediário)"
+    ],
+    "education": {
+        "badges": [
+            {
+                "name": "teste",
+                "url": "data/imgs/conquista-01.png"
+            },
+            {
+                "name": "teste",
+                "url": "data/imgs/conquista-02.png"
+            },
+            {
+                "name": "teste",
+                "url": "data/imgs/conquista-03.png"
+            },
+            {
+                "name": "teste",
+                "url": "data/imgs/conquista-04.png"
+            },
+            {
+                "name": "teste",
+                "url": "data/imgs/conquista-05.png"
+            },
+            {
+                "name": "teste",
+                "url": "data/imgs/conquista-06.png"
+            }
+        ],
+        "courses": [
+            {
+                "name": "Claretiano - Sorocaba",
+                "description": "Curso Tecnólogo em Análise e Desenvolvimento de Sistemas"
+            },
+            {
+                "name": "Rocketseat",
+                "description": "Trilha Explorer de Desenvolvimento Fullstack"
+            },
+            {
+                "name": "DIO",
+                "description": "Vários cursos livres voltados para TI"
+            }
+        ]
+    },
+    "portfolio": [
+      {
+        "name": "FoodExplorer - Restaurante online",
+        "url": "https://3xplor3r-food.netlify.app/",
+        "github": true
+      },
+      {
+        "name": "RocketNotes - Gerenciador de notas com tags e links",
+        "url": "https://notes-personal.netlify.app/",
+        "github": true
+      },
+      {
+        "name": "InstaDogs a rede social para seu pet",
+        "url": "https://photo-dogs.netlify.app/",
+        "github": true
+      },
+      {
+        "name": "Countries - Pesquise países e saiba mais sobre eles",
+        "url": "https://r3st-countries.netlify.app/",
+        "github": true
+      }
+    ],
+    "professionalExperience": [
+      {
+        "name": "Front-end Developer / VM2",
+        "period": "2022 - até o momento",
+        "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      },
+      {
+        "name": "Front-end Developer / VM2",
+        "period": "Fev 2012 - Mai 2013 (Estágio)",
+        "description": "Meu primeiro contato com a área de TI como estagiário, colaborando com a equipe na criação, manutenção e atualização de conteúdo e páginas para grandes empresas nacionais e multinacionais"
+      }
+    ]
+  }

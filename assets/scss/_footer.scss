@@ -1,0 +1,16 @@
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 800px;
+    margin: 0 auto;
+    img {
+        display: block;
+        width: 80px;
+    }
+}
+@media (min-width: 768px) {
+    .footer {
+        justify-content: flex-end;
+    }
+}
